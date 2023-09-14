@@ -1,4 +1,4 @@
-# 🏄‍♂️ Jean-Baptiste Y. HOUETCHOWANOU
+# 🏄‍♂️ <h1 style="color:blue;">Jean-Baptiste Y. HOUETCHOWANOU</h1>
 
 
 <img src="img.jpg" alt="Header" style="width: 100%; height: 70vh;">
