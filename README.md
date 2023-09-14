@@ -1,6 +1,6 @@
 # 🏄‍♂️ Jean-Baptiste Y. HOUETCHOWANOU
 
-![Header](images/header.jpg)
+![Header](img.jpg)
 
 **`Digital Craftsman (Developer/Creator)`**
 
@@ -41,7 +41,8 @@ I am an independent full-stack developer and content creator who has taken my ve
 
 ### 📊 Stats
 
-![Reqima-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reqima-dev&show_icons=true&theme=gruvbox)
+![Jean-dev-bit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jean-dev-bit&show_icons=true&theme=gruvbox)
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Reqima-dev&theme=gruvbox&border_radius=4.5) -->
 
