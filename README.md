@@ -1,7 +1,7 @@
 # 🏄‍♂️ Jean-Baptiste Y. HOUETCHOWANOU
 
 
-<img src="img.jpg" alt="Header" style="width: 100%; height: 300px;">
+<img src="img.jpg" alt="Header" style="width: 100%; height: 109vh;">
 
 **`Digital Craftsman (Developer/Creator)`**
 
@@ -30,7 +30,7 @@ I am an independent full-stack developer and content creator who has taken my ve
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
 <img align="left" alt="Mongo DB" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://github.com/)" />  
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
 <img align="left" alt="xd" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />  
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
 <img align="left" alt="VS code" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
