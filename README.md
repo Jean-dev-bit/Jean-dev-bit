@@ -1,7 +1,7 @@
 # 🏄‍♂️ Jean-Baptiste Y. HOUETCHOWANOU
 
 
-<img src="img.jpg" alt="Header" style="width: 100%; height: 70vh;">
+<img src="img.jpg" alt="Header" style="width: 100%; height: 70vh; opacity: 0.5rem">
 
 **`Digital Craftsman (Developer/Creator)`**
 
