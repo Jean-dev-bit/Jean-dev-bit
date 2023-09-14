@@ -1,6 +1,6 @@
 # 🏄‍♂️Jean-Baptiste Y. HOUETCHOWANOU
 
-![Header](Code web.jpeg)
+![Header]([Code web.jpeg](https://github.com/Jean-dev-bit/Jean-dev-bit/blob/main/Code%20web.jpeg?raw=true))
 
 
 **`Digital Craftsman (Developer/Creator)`**
