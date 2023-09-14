@@ -1,6 +1,6 @@
 # 🏄‍♂️Jean-Baptiste Y. HOUETCHOWANOU
 
-<img src="Code web.jpeg" alt="Header" style="width: 100%; height: 80vh; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);">
+<img src="Code web.jpeg" alt="Header" style="width: 100%; height: 50vh; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);">
 
 
 
