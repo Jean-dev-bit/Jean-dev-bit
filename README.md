@@ -8,9 +8,9 @@
 
 ### Hi there 👋
 <p>
-I am an independent full-stack developer and content creator who has taken my version of the digital world one step at a time. All coding projects are integrated from scratch, from planning and design to solving real problems with code. I really enjoy learning languages ​​and frameworks like React and React Native, as well as making mockups in Adobe XD or Figma. I also enjoy wireframing, ui, ux, and design in general.
+  I am an independent full-stack developer and content creator who has taken my version of the digital world one step at a time. All coding projects are integrated from scratch, from planning and design to solving real problems with code. I really enjoy   learning languages ​​and frameworks like React and React Native, as well as making mockups in Adobe XD or Figma. I also enjoy wireframing, ui, ux, and design in general.
 </p>
----
+
 
 ### 🧰 Languages and Tools
 
