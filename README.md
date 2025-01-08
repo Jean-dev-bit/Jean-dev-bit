@@ -79,9 +79,9 @@ Vous avez un projet ou une idée ? 🚀
 
 #
 
-### 📊 Stats
+### 📊 Statistiques
 
-![Jean-dev-bit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jean-dev-bit&show_icons=true&theme=gruvbox)
+![Jean-dev-bit GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Jean-dev-bit&show_icons=true&theme=gruvbox)
 
 
 
