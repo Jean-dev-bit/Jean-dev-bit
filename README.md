@@ -74,7 +74,6 @@ Vous avez un projet ou une idée ? 🚀
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" /> 
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" /> 
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgressql/postgressql-original.svg" /> 
 <br />
 
 
