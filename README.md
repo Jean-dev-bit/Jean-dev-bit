@@ -73,6 +73,8 @@ Vous avez un projet ou une idée ? 🚀
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> 
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" /> 
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" /> 
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgressql/postgressql-original.svg" /> 
 <br />
 
 
@@ -83,7 +85,7 @@ Vous avez un projet ou une idée ? 🚀
 ![Jean-dev-bit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jean-dev-bit&show_icons=true&theme=gruvbox)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jean-dev-bit&theme=gruvbox&border_radius=4.5) 
+
 
 
 
