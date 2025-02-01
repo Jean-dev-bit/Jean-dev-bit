@@ -7,7 +7,7 @@
 Salut 👋 ! Je suis **Jean-Baptiste**, développeur FullStack avec une préférence marquée pour le **Front-End** ❤️, mais aussi un véritable passionné du **Back-End** 🚀.  
 
 Avec **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js** et **Angular.js**, je crée des interfaces utilisateurs élégantes et intuitives.  
-Côté Back-End, j'utilise **Prisma** et **Mongoose** pour travailler avec des bases de données comme **MongoDB** et **PostgreSQL**, garantissant des solutions robustes et performantes.  
+Côté Back-End, j'utilise **Prisma** et **Mongoose** pour travailler avec des bases de données comme **MongoDB**, **Firebase** et **PostgreSQL**, garantissant des solutions robustes et performantes.  
 
 ---
 
